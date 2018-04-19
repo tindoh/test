@@ -48,7 +48,7 @@ puyo
 ##  Code
 This is a `code`.
 
-```C:sample
+```C
 int main()
 {
   printf("Hello!\n");
