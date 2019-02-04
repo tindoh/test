@@ -66,3 +66,8 @@ int main()
 ---
 ***
 ___
+
+##  Comment
+<!--
+Here is a comment.
+-->
