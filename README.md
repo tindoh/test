@@ -63,7 +63,9 @@ int main()
 
 Code include backquote.
 ````
-Here is three backquote: ```hoge```.
+One backquote: `hoge`
+Two backquote: ``hoge``
+Three backquote: ```hoge```
 ````
 
 ##  Line
