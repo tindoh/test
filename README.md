@@ -86,5 +86,6 @@ Here is a comment.
 * $\textsf{\color{#f5750e}{Introduction}}$
   * https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
 * $${\color{red}★★★}$$
-* :pink_heart: :yellow_heart: :blue_heart: :green_heart:
-* :red_circle: :red_square: :warning:
+* [emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
+  * :pink_heart: :yellow_heart: :blue_heart: :green_heart:
+  * :red_circle: :red_square: :warning:
