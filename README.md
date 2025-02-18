@@ -78,3 +78,13 @@ ___
 <!--
 Here is a comment.
 -->
+
+## Color
+* <span style="background-color:#ffcc99">テスト</span>
+* <span style="color: red; ">テスト</span>
+* $${\color{red}Red}$$
+* $\textsf{\color{#f5750e}{Introduction}}$
+  * https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
+* $${\color{red}★★★}$$
+* :pink_heart: :yellow_heart: :blue_heart: :green_heart:
+* :red_circle: :red_square: :warning:
