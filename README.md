@@ -8,24 +8,24 @@ test
 _test_
 **test**
 __test__
-__test*hoge*test__
+__test*test*test__
 
 ##  List
-* hoge
-* hoge
-  * fuga
+* test
+* test
+  * test
 
-- hoge
-- hoge
-  - fuga
+- test
+- test
+  - test
 
-+ hoge
-+ hoge
-  + fuga
++ test
++ test
+  + test
 
-1. hoge
-1. hoge
-   1. fuga
+1. test
+1. test
+   1. test
 
 ##  Link
 [GitHub](http://github.com)
@@ -33,11 +33,6 @@ __test*hoge*test__
 https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa
 https://guides.github.com/features/mastering-markdown/
 https://qiita.com/higuma/items/3344387e0f2cce7f2cfe
-
-##  NewLine
-hoge
-fuga  
-puyo
 
 ##  Blockquotes
 > abc
